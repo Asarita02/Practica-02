@@ -1,0 +1,8 @@
+C:\Melissa\LenguajeC\Impresoranumerosprimos\Impresoranumerosprimos\bin\Debug\Impresoranumerosprimos.exe.config
+C:\Melissa\LenguajeC\Impresoranumerosprimos\Impresoranumerosprimos\bin\Debug\Impresoranumerosprimos.exe
+C:\Melissa\LenguajeC\Impresoranumerosprimos\Impresoranumerosprimos\bin\Debug\Impresoranumerosprimos.pdb
+C:\Melissa\LenguajeC\Impresoranumerosprimos\Impresoranumerosprimos\obj\Debug\Impresoranumerosprimos.csproj.AssemblyReference.cache
+C:\Melissa\LenguajeC\Impresoranumerosprimos\Impresoranumerosprimos\obj\Debug\Impresoranumerosprimos.csproj.SuggestedBindingRedirects.cache
+C:\Melissa\LenguajeC\Impresoranumerosprimos\Impresoranumerosprimos\obj\Debug\Impresoranumerosprimos.csproj.CoreCompileInputs.cache
+C:\Melissa\LenguajeC\Impresoranumerosprimos\Impresoranumerosprimos\obj\Debug\Impresoranumerosprimos.exe
+C:\Melissa\LenguajeC\Impresoranumerosprimos\Impresoranumerosprimos\obj\Debug\Impresoranumerosprimos.pdb
