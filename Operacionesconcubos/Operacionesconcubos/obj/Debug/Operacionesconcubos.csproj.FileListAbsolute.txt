@@ -1,0 +1,8 @@
+C:\Melissa\LenguajeC\Operacionesconcubos\Operacionesconcubos\bin\Debug\Operacionesconcubos.exe.config
+C:\Melissa\LenguajeC\Operacionesconcubos\Operacionesconcubos\bin\Debug\Operacionesconcubos.exe
+C:\Melissa\LenguajeC\Operacionesconcubos\Operacionesconcubos\bin\Debug\Operacionesconcubos.pdb
+C:\Melissa\LenguajeC\Operacionesconcubos\Operacionesconcubos\obj\Debug\Operacionesconcubos.csproj.AssemblyReference.cache
+C:\Melissa\LenguajeC\Operacionesconcubos\Operacionesconcubos\obj\Debug\Operacionesconcubos.csproj.SuggestedBindingRedirects.cache
+C:\Melissa\LenguajeC\Operacionesconcubos\Operacionesconcubos\obj\Debug\Operacionesconcubos.csproj.CoreCompileInputs.cache
+C:\Melissa\LenguajeC\Operacionesconcubos\Operacionesconcubos\obj\Debug\Operacionesconcubos.exe
+C:\Melissa\LenguajeC\Operacionesconcubos\Operacionesconcubos\obj\Debug\Operacionesconcubos.pdb
