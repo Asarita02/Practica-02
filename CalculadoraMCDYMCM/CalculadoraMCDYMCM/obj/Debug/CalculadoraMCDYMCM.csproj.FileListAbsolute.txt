@@ -1,0 +1,8 @@
+C:\Melissa\LenguajeC\CalculadoraMCDYMCM\CalculadoraMCDYMCM\bin\Debug\CalculadoraMCDYMCM.exe.config
+C:\Melissa\LenguajeC\CalculadoraMCDYMCM\CalculadoraMCDYMCM\bin\Debug\CalculadoraMCDYMCM.exe
+C:\Melissa\LenguajeC\CalculadoraMCDYMCM\CalculadoraMCDYMCM\bin\Debug\CalculadoraMCDYMCM.pdb
+C:\Melissa\LenguajeC\CalculadoraMCDYMCM\CalculadoraMCDYMCM\obj\Debug\CalculadoraMCDYMCM.csproj.AssemblyReference.cache
+C:\Melissa\LenguajeC\CalculadoraMCDYMCM\CalculadoraMCDYMCM\obj\Debug\CalculadoraMCDYMCM.csproj.SuggestedBindingRedirects.cache
+C:\Melissa\LenguajeC\CalculadoraMCDYMCM\CalculadoraMCDYMCM\obj\Debug\CalculadoraMCDYMCM.csproj.CoreCompileInputs.cache
+C:\Melissa\LenguajeC\CalculadoraMCDYMCM\CalculadoraMCDYMCM\obj\Debug\CalculadoraMCDYMCM.exe
+C:\Melissa\LenguajeC\CalculadoraMCDYMCM\CalculadoraMCDYMCM\obj\Debug\CalculadoraMCDYMCM.pdb
