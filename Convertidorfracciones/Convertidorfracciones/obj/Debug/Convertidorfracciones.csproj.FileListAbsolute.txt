@@ -1,0 +1,8 @@
+C:\Melissa\LenguajeC\Convertidorfracciones\Convertidorfracciones\bin\Debug\Convertidorfracciones.exe.config
+C:\Melissa\LenguajeC\Convertidorfracciones\Convertidorfracciones\bin\Debug\Convertidorfracciones.exe
+C:\Melissa\LenguajeC\Convertidorfracciones\Convertidorfracciones\bin\Debug\Convertidorfracciones.pdb
+C:\Melissa\LenguajeC\Convertidorfracciones\Convertidorfracciones\obj\Debug\Convertidorfracciones.csproj.AssemblyReference.cache
+C:\Melissa\LenguajeC\Convertidorfracciones\Convertidorfracciones\obj\Debug\Convertidorfracciones.csproj.SuggestedBindingRedirects.cache
+C:\Melissa\LenguajeC\Convertidorfracciones\Convertidorfracciones\obj\Debug\Convertidorfracciones.csproj.CoreCompileInputs.cache
+C:\Melissa\LenguajeC\Convertidorfracciones\Convertidorfracciones\obj\Debug\Convertidorfracciones.exe
+C:\Melissa\LenguajeC\Convertidorfracciones\Convertidorfracciones\obj\Debug\Convertidorfracciones.pdb
