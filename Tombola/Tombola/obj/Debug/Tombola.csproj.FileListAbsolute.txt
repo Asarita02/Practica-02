@@ -1,0 +1,8 @@
+C:\Melissa\LenguajeC\Tombola\Tombola\bin\Debug\Tombola.exe.config
+C:\Melissa\LenguajeC\Tombola\Tombola\bin\Debug\Tombola.exe
+C:\Melissa\LenguajeC\Tombola\Tombola\bin\Debug\Tombola.pdb
+C:\Melissa\LenguajeC\Tombola\Tombola\obj\Debug\Tombola.csproj.AssemblyReference.cache
+C:\Melissa\LenguajeC\Tombola\Tombola\obj\Debug\Tombola.csproj.SuggestedBindingRedirects.cache
+C:\Melissa\LenguajeC\Tombola\Tombola\obj\Debug\Tombola.csproj.CoreCompileInputs.cache
+C:\Melissa\LenguajeC\Tombola\Tombola\obj\Debug\Tombola.exe
+C:\Melissa\LenguajeC\Tombola\Tombola\obj\Debug\Tombola.pdb
