@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Modeladoorientadoobjetos.Vehiculo">
+    <Position X="7.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEABAABAAQAAAgAAAAMAAAABAAAACAAAgAgAAIAAA=</HashCode>
+      <FileName>Vehiculo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Modeladoorientadoobjetos.Servicio">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>EACAAAAggEAAAABAAAACAAAAAAAAAAoQACA4ABAAUAA=</HashCode>
+      <FileName>Servicio.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Modeladoorientadoobjetos.Cliente">
+    <Position X="2.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAABAAgAAQAKAAAAAgAAABAAAAAQAAAAAAggAAAI=</HashCode>
+      <FileName>Cliente.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Modeladoorientadoobjetos.Empresa">
+    <Position X="10.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAEEACAAAAAIAAAACAAAAAQAAAAUAAAAAAAAgAAABI=</HashCode>
+      <FileName>Empresa.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Modeladoorientadoobjetos.Pago">
+    <Position X="5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gBAAAIAAAQAAgAEAAogAAAAIAAAAAAAAIAAAACAAAAA=</HashCode>
+      <FileName>Pago.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Modeladoorientadoobjetos.Requerimiento">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BABAQAAAAEAAAAAAEAAAABAAAAAAAggAAAIIAAQAQAA=</HashCode>
+      <FileName>Requerimiento.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Modeladoorientadoobjetos.Suplidor">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAJAAAACQABAAAQAQAAEEgAAABIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Suplidor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Modeladoorientadoobjetos.Empleados">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAgAKAAAAAgAAACAAAAQAAAAEIQAAAAkA=</HashCode>
+      <FileName>Empleados.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Modeladoorientadoobjetos.Horario">
+    <Position X="17.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAEAABABCAAAABhAAAAQQAAAEAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Horario.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Modeladoorientadoobjetos.OrdenSv">
+    <Position X="19" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gBAAAIEQAQABAAEAAAAEAAAAACAAAAAAIAAAACAAAAA=</HashCode>
+      <FileName>OrdenSv.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Modeladoorientadoobjetos.cita">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAASAAQAEgAAAAAAAAAEAAAADAIAAAgCAAAAA=</HashCode>
+      <FileName>Lavado.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Modeladoorientadoobjetos.Precio">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gQAAAKEAIAAAAGAAAAhAAAAIAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Precio.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Modeladoorientadoobjetos.Mantenimientos">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAQAAAAACAAAAAhAAAAAQAIgAAACIAAAA=</HashCode>
+      <FileName>Hora.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Modeladoorientadoobjetos.Metodosvarios">
+    <Position X="13.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Metodosvarios.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Modeladoorientadoobjetos.Usabilidad">
+    <Position X="12" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Usabilidad.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Modeladoorientadoobjetos.Metodosvarios2">
+    <Position X="17.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Metodosvarios2.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Modeladoorientadoobjetos.Metodosvarios3">
+    <Position X="19.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Metodosvarios3.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Modeladoorientadoobjetos.Metodosvarios4">
+    <Position X="15.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Metodosvarios4.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,3 @@
+C:\Users\User\Desktop\Practica 2\Modeladoorientadoobjetos\Modeladoorientadoobjetos\obj\Debug\Modeladoorientadoobjetos.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Practica 2\Modeladoorientadoobjetos\Modeladoorientadoobjetos\obj\Debug\Modeladoorientadoobjetos.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Practica 2\Modeladoorientadoobjetos\Modeladoorientadoobjetos\obj\Debug\Modeladoorientadoobjetos.csproj.CoreCompileInputs.cache
