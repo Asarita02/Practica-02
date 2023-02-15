@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Prestamodelibros.Libro">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAQAAAIgAAACAAAAAAAAAAAYgAAAAAAgAEAAICBE=</HashCode>
+      <FileName>Libro.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Prestamodelibros.Autor">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAAAACAAEcCgCBAAgAgAAAAAABAAAAQUAA=</HashCode>
+      <FileName>Autor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Prestamodelibros.Pasillo">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgABAAAAIQAAACAgEAAABhAAAAQAAAAEAAIAAAICAAA=</HashCode>
+      <FileName>Pasillo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Prestamodelibros.Tramo">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAEAAAAAYAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tramo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Prestamodelibros.Estudiante">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAQAAAAEgAAIAKAAiAAgAAAAAAAAAAAQAAAAEgAAAA=</HashCode>
+      <FileName>Estudiante.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prestamodelibros.Prestamo">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DAAAQAAAARAAAAERAAAABwAAAAQAACAAAAAgAAgAAAA=</HashCode>
+      <FileName>Prestamo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Prestamodelibros.Generoliterario">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYCAAAAAAAAAAAAgAAIAIAACACAAEAAgEBAAABAAgE=</HashCode>
+      <FileName>Genero.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Prestamodelibros.LibrosDisponibles">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAIAAAAiAECAABBA4AAQAQAAAAgAAAAAAAAAgAAAA=</HashCode>
+      <FileName>LibrosDisponibles.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Prestamodelibros.Librosrequeridos">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GAYAAAAAAAAEAAABBAAAAQAABQAAAAUBAAAAAQgAAAA=</HashCode>
+      <FileName>Librosrequeridos.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Prestamodelibros.Sucursal">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAACAAAgAAAAIAAYAAARACAYAQAIAAAAGAAAABQg=</HashCode>
+      <FileName>Sucursal.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Prestamodelibros.Empleados">
+    <Position X="18" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAgAAIAKAACAAgAAAAAAAAAAAAAQAAAAUEgA=</HashCode>
+      <FileName>Empleados.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Prestamodelibros.metodosvarios">
+    <Position X="0.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>metodosvarios.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Prestamodelibros.metodosvarios1">
+    <Position X="2.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>metodosvarios1.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Prestamodelibros.metodosvarios2">
+    <Position X="4" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>metodosvarios2.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Prestamodelibros.metodosvarios3">
+    <Position X="5.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>metodosvarios3.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Prestamodelibros.metodosvarios4">
+    <Position X="7.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>metodosvarios4.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Prestamodelibros.Librostipos">
+    <Position X="9.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Librostipos.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Prestamodelibros.tramoscolor">
+    <Position X="11" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>tramoscolor.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Prestamodelibros.Pasillostipo">
+    <Position X="12.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pasillostipo.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Prestamodelibros.Posicionempleado">
+    <Position X="14.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Posicionempleado.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Prestamodelibros.categorialibro">
+    <Position X="16.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>categorialibro.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Prestamodelibros.Provinciasucursal">
+    <Position X="18" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Provinciasucursal.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
