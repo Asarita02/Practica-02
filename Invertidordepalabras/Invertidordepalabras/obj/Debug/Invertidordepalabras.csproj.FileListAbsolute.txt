@@ -1,0 +1,8 @@
+C:\Melissa\LenguajeC\Invertidordepalabras\Invertidordepalabras\bin\Debug\Invertidordepalabras.exe.config
+C:\Melissa\LenguajeC\Invertidordepalabras\Invertidordepalabras\bin\Debug\Invertidordepalabras.exe
+C:\Melissa\LenguajeC\Invertidordepalabras\Invertidordepalabras\bin\Debug\Invertidordepalabras.pdb
+C:\Melissa\LenguajeC\Invertidordepalabras\Invertidordepalabras\obj\Debug\Invertidordepalabras.csproj.AssemblyReference.cache
+C:\Melissa\LenguajeC\Invertidordepalabras\Invertidordepalabras\obj\Debug\Invertidordepalabras.csproj.SuggestedBindingRedirects.cache
+C:\Melissa\LenguajeC\Invertidordepalabras\Invertidordepalabras\obj\Debug\Invertidordepalabras.csproj.CoreCompileInputs.cache
+C:\Melissa\LenguajeC\Invertidordepalabras\Invertidordepalabras\obj\Debug\Invertidordepalabras.exe
+C:\Melissa\LenguajeC\Invertidordepalabras\Invertidordepalabras\obj\Debug\Invertidordepalabras.pdb
