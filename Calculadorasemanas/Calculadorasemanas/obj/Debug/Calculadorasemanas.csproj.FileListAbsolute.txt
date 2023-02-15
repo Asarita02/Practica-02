@@ -1,0 +1,8 @@
+C:\Melissa\LenguajeC\Calculadorasemanas\Calculadorasemanas\bin\Debug\Calculadorasemanas.exe.config
+C:\Melissa\LenguajeC\Calculadorasemanas\Calculadorasemanas\bin\Debug\Calculadorasemanas.exe
+C:\Melissa\LenguajeC\Calculadorasemanas\Calculadorasemanas\bin\Debug\Calculadorasemanas.pdb
+C:\Melissa\LenguajeC\Calculadorasemanas\Calculadorasemanas\obj\Debug\Calculadorasemanas.csproj.AssemblyReference.cache
+C:\Melissa\LenguajeC\Calculadorasemanas\Calculadorasemanas\obj\Debug\Calculadorasemanas.csproj.SuggestedBindingRedirects.cache
+C:\Melissa\LenguajeC\Calculadorasemanas\Calculadorasemanas\obj\Debug\Calculadorasemanas.csproj.CoreCompileInputs.cache
+C:\Melissa\LenguajeC\Calculadorasemanas\Calculadorasemanas\obj\Debug\Calculadorasemanas.exe
+C:\Melissa\LenguajeC\Calculadorasemanas\Calculadorasemanas\obj\Debug\Calculadorasemanas.pdb
