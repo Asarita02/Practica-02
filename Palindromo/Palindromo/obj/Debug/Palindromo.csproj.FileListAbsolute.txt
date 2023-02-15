@@ -1,0 +1,8 @@
+C:\Melissa\LenguajeC\Palindromo\Palindromo\bin\Debug\Palindromo.exe.config
+C:\Melissa\LenguajeC\Palindromo\Palindromo\bin\Debug\Palindromo.exe
+C:\Melissa\LenguajeC\Palindromo\Palindromo\bin\Debug\Palindromo.pdb
+C:\Melissa\LenguajeC\Palindromo\Palindromo\obj\Debug\Palindromo.csproj.AssemblyReference.cache
+C:\Melissa\LenguajeC\Palindromo\Palindromo\obj\Debug\Palindromo.csproj.SuggestedBindingRedirects.cache
+C:\Melissa\LenguajeC\Palindromo\Palindromo\obj\Debug\Palindromo.csproj.CoreCompileInputs.cache
+C:\Melissa\LenguajeC\Palindromo\Palindromo\obj\Debug\Palindromo.exe
+C:\Melissa\LenguajeC\Palindromo\Palindromo\obj\Debug\Palindromo.pdb
