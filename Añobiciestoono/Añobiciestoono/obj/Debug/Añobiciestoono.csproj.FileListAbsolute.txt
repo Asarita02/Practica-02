@@ -1,0 +1,8 @@
+C:\Melissa\LenguajeC\Añobiciestoono\Añobiciestoono\bin\Debug\Añobiciestoono.exe.config
+C:\Melissa\LenguajeC\Añobiciestoono\Añobiciestoono\bin\Debug\Añobiciestoono.exe
+C:\Melissa\LenguajeC\Añobiciestoono\Añobiciestoono\bin\Debug\Añobiciestoono.pdb
+C:\Melissa\LenguajeC\Añobiciestoono\Añobiciestoono\obj\Debug\Añobiciestoono.csproj.AssemblyReference.cache
+C:\Melissa\LenguajeC\Añobiciestoono\Añobiciestoono\obj\Debug\Añobiciestoono.csproj.SuggestedBindingRedirects.cache
+C:\Melissa\LenguajeC\Añobiciestoono\Añobiciestoono\obj\Debug\Añobiciestoono.csproj.CoreCompileInputs.cache
+C:\Melissa\LenguajeC\Añobiciestoono\Añobiciestoono\obj\Debug\Añobiciestoono.exe
+C:\Melissa\LenguajeC\Añobiciestoono\Añobiciestoono\obj\Debug\Añobiciestoono.pdb
