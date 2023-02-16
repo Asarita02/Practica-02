@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Practica 2\Programa10\Programa10\bin\Debug\Programa10.exe.config
+C:\Users\User\Desktop\Practica 2\Programa10\Programa10\bin\Debug\Programa10.exe
+C:\Users\User\Desktop\Practica 2\Programa10\Programa10\bin\Debug\Programa10.pdb
+C:\Users\User\Desktop\Practica 2\Programa10\Programa10\obj\Debug\Programa10.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Practica 2\Programa10\Programa10\obj\Debug\Programa10.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Practica 2\Programa10\Programa10\obj\Debug\Programa10.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practica 2\Programa10\Programa10\obj\Debug\Programa10.exe
+C:\Users\User\Desktop\Practica 2\Programa10\Programa10\obj\Debug\Programa10.pdb
