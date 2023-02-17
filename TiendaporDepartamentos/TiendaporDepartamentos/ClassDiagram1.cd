@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TiendaporDepartamentos.Inventario">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAIQFQAAAAAAAgQAEAIAABAAAAUgAAEAABAgAAIAA=</HashCode>
+      <FileName>Inventario.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TiendaporDepartamentos.Compras">
+    <Position X="2.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABACAAIQFAAiAAQoAAAACABCAAAIQAAAAAAAAAAAAg=</HashCode>
+      <FileName>Compras.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TiendaporDepartamentos.Ventas">
+    <Position X="4" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gABICAAAwBAIAAIQCAAAAAEAAIAAAABAAAAAQIAAEAg=</HashCode>
+      <FileName>Ventas.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TiendaporDepartamentos.Clientes">
+    <Position X="5.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAQAAACEAAAACAQAAAgAAAAIAAIAAAAAAAIgBQACI=</HashCode>
+      <FileName>Clientes.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TiendaporDepartamentos.Empleados">
+    <Position X="7.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAECAAxBAAACAQAAAAQAAAAACAAAAAgAAlgAAABA=</HashCode>
+      <FileName>Empleados.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TiendaporDepartamentos.Logistica">
+    <Position X="9.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAAAQAAgAKABAAAAAACAAAAAgAAAAAAAAAQAAg=</HashCode>
+      <FileName>Logistica.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TiendaporDepartamentos.Seguridad">
+    <Position X="11" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAhAAAAIQAAAIAAAACAAABAAEAAAQAAAAEAAgAACI=</HashCode>
+      <FileName>Seguridad.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TiendaporDepartamentos.Pagos">
+    <Position X="12.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAgAAAAIABAAAAiQAIAIgAAAQAAAAEAAAgAAEAA=</HashCode>
+      <FileName>Pagos.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TiendaporDepartamentos.Gestiondetienda">
+    <Position X="18" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ECQAARAAAAEQAAAAEAAAAgAABAAgAAAAIAAAIAAAAAg=</HashCode>
+      <FileName>Gestiondetienda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TiendaporDepartamentos.Gestiondeprocesos">
+    <Position X="19.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAABQAAAAAAAhAAAQAQAAEAAAAAAAAAQAAAAAAEIg=</HashCode>
+      <FileName>Gestiondeprocesos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TiendaporDepartamentos.Pedido">
+    <Position X="14.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAEABAAAAAQECCAQBAggEAAEAAAAAQAAACAAA=</HashCode>
+      <FileName>Pedido.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TiendaporDepartamentos.Contabilidad">
+    <Position X="16.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAQAAAAIIIgAAgCIAAhAAAAEAAAAAAAFAAAQAAAA=</HashCode>
+      <FileName>Contabilidad.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="TiendaporDepartamentos.usuariodegestióndeinventario">
+    <Position X="21.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>usuariodegestióndeinventario.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TiendaporDepartamentos.usuariodeventas">
+    <Position X="23.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>usuariodeventas.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TiendaporDepartamentos.usuariodegestiondeempleados">
+    <Position X="21.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>usuariodegestiondeempleados.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TiendaporDepartamentos.usuariodegestióndepromociones">
+    <Position X="23.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>usuariodegestióndepromociones.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TiendaporDepartamentos.usuariodeanálisisdedatos">
+    <Position X="25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>usuariodeanálisisdedatos.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TiendaporDepartamentos.usuariodeservicioalcliente">
+    <Position X="25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>usuariodeservicioalcliente.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="TiendaporDepartamentos.Tipodepago">
+    <Position X="21.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enum2.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TiendaporDepartamentos.transportista">
+    <Position X="23.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enum3.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
