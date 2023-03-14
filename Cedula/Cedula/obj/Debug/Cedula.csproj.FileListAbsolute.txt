@@ -1,0 +1,11 @@
+C:\Melissa\LenguajeC\Cedula\Cedula\bin\Debug\Cedula.exe.config
+C:\Melissa\LenguajeC\Cedula\Cedula\bin\Debug\Cedula.exe
+C:\Melissa\LenguajeC\Cedula\Cedula\bin\Debug\Cedula.pdb
+C:\Melissa\LenguajeC\Cedula\Cedula\obj\Debug\Cedula.csproj.AssemblyReference.cache
+C:\Melissa\LenguajeC\Cedula\Cedula\obj\Debug\Cedula.csproj.SuggestedBindingRedirects.cache
+C:\Melissa\LenguajeC\Cedula\Cedula\obj\Debug\Cedula.Form1.resources
+C:\Melissa\LenguajeC\Cedula\Cedula\obj\Debug\Cedula.Properties.Resources.resources
+C:\Melissa\LenguajeC\Cedula\Cedula\obj\Debug\Cedula.csproj.GenerateResource.cache
+C:\Melissa\LenguajeC\Cedula\Cedula\obj\Debug\Cedula.csproj.CoreCompileInputs.cache
+C:\Melissa\LenguajeC\Cedula\Cedula\obj\Debug\Cedula.exe
+C:\Melissa\LenguajeC\Cedula\Cedula\obj\Debug\Cedula.pdb
